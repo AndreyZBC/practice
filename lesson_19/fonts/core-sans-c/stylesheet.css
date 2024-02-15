@@ -1,0 +1,52 @@
+
+@font-face {
+    font-family: 'Core Sans C 65';
+    src: url('CoreSansC-65Bold.eot');
+    src: local('Core Sans C 65 Bold'), local('CoreSansC-65Bold'),
+        url('CoreSansC-65Bold.eot?#iefix') format('embedded-opentype'),
+        url('CoreSansC-65Bold.woff2') format('woff2'),
+        url('CoreSansC-65Bold.woff') format('woff'),
+        url('CoreSansC-65Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Core Sans C 55';
+    src: url('CoreSansC-55Medium.eot');
+    src: local('Core Sans C 55 Medium'), local('CoreSansC-55Medium'),
+        url('CoreSansC-55Medium.eot?#iefix') format('embedded-opentype'),
+        url('CoreSansC-55Medium.woff2') format('woff2'),
+        url('CoreSansC-55Medium.woff') format('woff'),
+        url('CoreSansC-55Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Core Sans C 75';
+    src: url('CoreSansC-75ExtraBold.eot');
+    src: local('Core Sans C 75 ExtraBold'), local('CoreSansC-75ExtraBold'),
+        url('CoreSansC-75ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('CoreSansC-75ExtraBold.woff2') format('woff2'),
+        url('CoreSansC-75ExtraBold.woff') format('woff'),
+        url('CoreSansC-75ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Core Sans C 45';
+    src: url('CoreSansC-45Regular.eot');
+    src: local('Core Sans C 45 Regular'), local('CoreSansC-45Regular'),
+        url('CoreSansC-45Regular.eot?#iefix') format('embedded-opentype'),
+        url('CoreSansC-45Regular.woff2') format('woff2'),
+        url('CoreSansC-45Regular.woff') format('woff'),
+        url('CoreSansC-45Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
